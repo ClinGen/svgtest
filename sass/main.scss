@@ -75,6 +75,19 @@ body {
     max-width: 500px;
 }
 
+.svg-link {
+    #core-team:hover {
+        fill:#ff0000;
+    }
+
+    #medical-team:hover,
+    #lab-support:hover,
+    #patient-advocacy:hover {
+        stroke:#ff0000;
+    }
+
+}
+
 
 /* ==========================================================================
    Media Queries
